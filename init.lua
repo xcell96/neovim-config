@@ -9,4 +9,4 @@ require("config.lazy")
 -- - catppucin
 -- - lackluster
 -- - kanagawa
-vim.cmd.colorscheme("kanagawa")
+vim.cmd.colorscheme("lackluster-mint")
